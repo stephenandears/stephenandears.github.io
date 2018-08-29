@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1522198763288-96e9f39904af?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d63d5bd271ccdfec5a31b5f556479cd0&auto=format&fit=crop&w=1650&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+body, html {
+  height: 100%;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  width: 100%;
+  color: #669999
+}
